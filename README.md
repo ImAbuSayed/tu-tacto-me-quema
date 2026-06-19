@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Tu tacto me quema |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-me-quema/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu tacto me quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-me-quema/) |
+| **Get License** | [Obtain a Music License for Tu tacto me quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-me-quema/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tu tacto me quema, fuego en la piel
-> Bailas tan lento, me vuelves cruel
-> Luz de neón, sombras en tu ser
-> Tu tacto me quema, no puedo ceder
+> Tu tacto me quema, me quema la piel
+> Un juego de fuego que sabe a la miel
+> Me miras de lejos y pierdo la mente
+> Bailando en la pista, rozando a la gente
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
