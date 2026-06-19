@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-tacto-me-quema/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu tacto me quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-me-quema/) |
+| **Get License** | [Get a Licensing Quote for Tu tacto me quema](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-tacto-me-quema/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `69e4304e9d3146535a45058d927bc4c375ddf298fe6a07be768f53282c299261` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
